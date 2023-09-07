@@ -6,6 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
 
+
+
+
 @EnableAutoConfiguration
 @SpringBootApplication
 @EntityScan(basePackages = {"com.crud.entity"})
