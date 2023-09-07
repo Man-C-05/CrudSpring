@@ -1,4 +1,4 @@
-package com.crud.entity;
+ package com.crud.entity;
 
 import java.util.UUID;
 
